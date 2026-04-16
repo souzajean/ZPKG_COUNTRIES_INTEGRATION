@@ -123,6 +123,7 @@ Nome: API_Countries
 <br>
 
 ### ⚙️ Configuração do Request Reply
+Mehod: GET
 ```
 URL: [https://](https://restcountries.com/v3.1/name/${property.country})
 ```
@@ -232,3 +233,42 @@ def Message processData(Message message) {
     return message
 }
 ```
+
+<br>
+
+# 🔹 7. Request Reply (Chamada API)
+
+### ➕ Adicionando Request Reply
+![Fluxo](imagens/Screenshot_22.png)
+
+<br>
+
+### 🏷️ Renomeando o Request Reply
+```
+Nome: API_Discord
+```
+![Fluxo](imagens/Screenshot_23.png)
+
+<br>
+
+# 🔹 8. Receiver (Chamada API)
+### ➕ Adicionando o Receiver
+![Fluxo](imagens/Screenshot_24.png)
+
+<br>
+
+### ➕ Adicionando o Adapter Requet Replay
+![Fluxo](imagens/Screenshot_25.png)
+
+<br>
+
+### ⚙️ Configuração do Request Reply
+
+Mehod: POST
+```
+URL: https://discord.com/api/webhooks/{{DISCORD_WEBHOOK_ID}}/{{DISCORD_WEBHOOK_TOKEN}}
+```
+![Fluxo](imagens/Screenshot_26.png)
+
+<br>
+
