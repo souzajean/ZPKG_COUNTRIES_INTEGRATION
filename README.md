@@ -316,21 +316,26 @@ Colar o código do DISCORD_WEBHOOK_TOKEN
 
 <br>
 
-# 🔹 8. Iflow final
+# 🔹 9. Iflow final
 ### ⚙️ Configuração final do Iflow 
 ![Fluxo](imagens/Screenshot_34.png)
 
 <br>
 
-# 🔹 9. Postman
+# 🔹 10. Postman
 
 ### ➕ Enviando o POST
 ![Fluxo](imagens/Screenshot_35.png)
 
 <br>
 
-### 🏷️ Resultado no DISCORD
+### ➕ Enviando o POST
 ![Fluxo](imagens/Screenshot_36.png)
+
+<br>
+
+### 🏷️ Resultado no DISCORD
+![Fluxo](imagens/Screenshot_37.png)
 
 
 <br>
