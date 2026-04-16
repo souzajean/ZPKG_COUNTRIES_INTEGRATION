@@ -1,26 +1,23 @@
 # 🚀 ZPKG_COUNTRIES_INTEGRATION
-## SAP BTP Integration Suite (CPI) – Integração com Discord via Webhook 
+## 🚀 SAP BTP CPI | Integração Inteligente com API de Países + Notificação em Tempo Real no Discord
 
 <br> 
 
-## 🎯 Objetivo
+## 🎯 Objetivo da solução   
 
-Este iFlow tem como objetivo demonstrar uma integração simples, eficiente e reutilizável utilizando o SAP BTP CPI, permitindo o envio de mensagens automáticas para canais do Discord via Webhook.
+Consumir dados de países a partir de uma API pública e enviar automaticamente essas informações, já tratadas e estruturadas, para um canal do Discord via Webhook.
 
-A solução pode ser utilizada como base para:
+💡 Mais do que uma simples integração, este iFlow representa um padrão reutilizável para observabilidade, notificações e enriquecimento de dados em integrações SAP.
 
-- Monitoramento de integrações
-- Notificações de erro/sucesso
-- Alertas operacionais em tempo real
-- Integração com sistemas externos
+## 🧩 O que este iFlow faz na prática?
+
+✔ Recebe requisições via endpoint HTTP no SAP CPI
+✔ Consome dinamicamente a API REST de países
+✔ Processa e transforma os dados com Groovy Script
+✔ Enriquece informações (capital, população, moeda, idioma, continente)
+✔ Envia uma mensagem formatada em tempo real para o Discord
 
 <br>
-
-## 🧩 Visão Geral da Solução
-
-A integração expõe um endpoint HTTP que recebe requisições externas e processa uma mensagem que será enviada diretamente para um canal do Discord.
-
-Essa abordagem desacopla sistemas SAP de ferramentas de comunicação modernas, permitindo maior visibilidade operacional.
 
 ![Fluxo](imagens/capa-linkedin.png)
 
