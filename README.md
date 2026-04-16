@@ -129,3 +129,42 @@ URL: [https://](https://restcountries.com/v3.1/name/${property.country})
 ![Fluxo](imagens/Screenshot_13.png)
 
 <br>
+
+# 🔹 5. Content Modifier
+
+### ➕ Adicionando o Content Modifier
+![Fluxo](imagens/Screenshot_14.png)
+
+<br>
+
+### 🏷️ Renomeando o Content Modifier
+```
+Nome: CM_Payload_Original
+```
+![Fluxo](imagens/Screenshot_15.png)
+
+
+<br>
+
+### ⚙️ Configuração do Content Modifier
+Message Header
+```
+|     Campo     |     Tipo    |      Valor      |
+| ------------- | ----------- || ---------------|
+|      Name     | Source Type | Source Value    |
+| Content Type  |   Constant  | application/json|
+
+```
+![Fluxo](imagens/Screenshot_16.png)
+
+<br>
+
+### ⚙️ Configuração do Content Modifier
+Message Body
+```
+Type: Expression
+Body: ${body}
+```
+![Fluxo](imagens/Screenshot_17.png)
+
+<br>
