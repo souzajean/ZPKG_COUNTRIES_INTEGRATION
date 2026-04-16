@@ -11,11 +11,11 @@ Consumir dados de países a partir de uma API pública e enviar automaticamente 
 
 ## 🧩 O que este iFlow faz na prática?
 
-✔ Recebe requisições via endpoint HTTP no SAP CPI
-✔ Consome dinamicamente a API REST de países
-✔ Processa e transforma os dados com Groovy Script
-✔ Enriquece informações (capital, população, moeda, idioma, continente)
-✔ Envia uma mensagem formatada em tempo real para o Discord
+✔ Recebe requisições via endpoint HTTP no SAP CPI  
+✔ Consome dinamicamente a API REST de países  
+✔ Processa e transforma os dados com Groovy Script  
+✔ Enriquece informações (capital, população, moeda, idioma, continente)  
+✔ Envia uma mensagem formatada em tempo real para o Discord  
 
 <br>
 
