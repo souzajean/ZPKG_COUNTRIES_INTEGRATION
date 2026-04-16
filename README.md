@@ -272,3 +272,72 @@ URL: https://discord.com/api/webhooks/{{DISCORD_WEBHOOK_ID}}/{{DISCORD_WEBHOOK_T
 
 <br>
 
+### ⚙️ Configuração da Externilação
+![Fluxo](imagens/Screenshot_27.png)
+```
+Colar o código do DISCORD_WEBHOOK_ID
+```
+
+<br>
+
+### ⚙️ Configuração da Externilação
+![Fluxo](imagens/Screenshot_28.png)
+```
+Colar o código do DISCORD_WEBHOOK_TOKEN
+```
+
+<br>
+
+# 🔹 8. Discord
+
+### ➕ Configurando o Canal
+![Fluxo](imagens/Screenshot_29.png)
+
+<br>
+
+### ➡️ Integrações
+![Fluxo](imagens/Screenshot_30.png)
+
+<br>
+
+### ⚙️ Configuração do Webhooks 
+![Fluxo](imagens/Screenshot_31.png)
+
+<br>
+
+### ➕ Adicionando o Webhooks
+![Fluxo](imagens/Screenshot_32.png)
+
+<br>
+
+### 🏷️ Renomeandoo o Webhooks
+
+![Fluxo](imagens/Screenshot_33.png)
+
+<br>
+
+# 🔹 8. Iflow final
+### ⚙️ Configuração final do Iflow 
+![Fluxo](imagens/Screenshot_34.png)
+
+<br>
+
+# 🔹 9. Postman
+
+### ➕ Enviando o POST
+![Fluxo](imagens/Screenshot_35.png)
+
+<br>
+
+### 🏷️ Resultado no DISCORD
+![Fluxo](imagens/Screenshot_36.png)
+
+
+<br>
+<br>
+
+---
+
+## 📦 Exemplo prático – iFlow para baixar
+
+📦 [Download do iFlow – CPI_ZPKG_COUNTRIES_INTEGRATION](https://github.com/souzajean/ZPKG_COUNTRIES_INTEGRATION/raw/main/Package/IFL_COUNTRIES_INTEGRATION_DISCORD.zip)
