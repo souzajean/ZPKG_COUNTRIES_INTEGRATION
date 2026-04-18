@@ -322,17 +322,27 @@ Colar o código do DISCORD_WEBHOOK_TOKEN
 # 🔹 10. Postman
 
 ### ➕ Enviando o POST
+BRASIL
 ![Fluxo](imagens/Screenshot_35.png)
+
+
 
 <br>
 
 ### ➕ Enviando o POST
+Germany
 ![Fluxo](imagens/Screenshot_36.png)
 
 <br>
 
-### 🏷️ Resultado no DISCORD
+### ➕ Enviando o POST
+Africa
 ![Fluxo](imagens/Screenshot_37.png)
+
+<br>
+
+### 🏷️ Resultado no DISCORD
+![Fluxo](imagens/Screenshot_38.png)
 
 
 <br>
