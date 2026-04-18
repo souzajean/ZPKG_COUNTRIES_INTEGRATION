@@ -277,7 +277,7 @@ Colar o código do DISCORD_WEBHOOK_ID
 
 <br>
 
-### ⚙️ Configuração da Externilação
+### ⚙️ Configuração da Externilazação
 ![Fluxo](imagens/Screenshot_28.png)
 ```
 Colar o código do DISCORD_WEBHOOK_TOKEN
