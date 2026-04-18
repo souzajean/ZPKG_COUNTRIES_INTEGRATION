@@ -269,7 +269,7 @@ URL: https://discord.com/api/webhooks/{{DISCORD_WEBHOOK_ID}}/{{DISCORD_WEBHOOK_T
 
 <br>
 
-### ⚙️ Configuração da Externilação
+### ⚙️ Configuração da Externilazação
 ![Fluxo](imagens/Screenshot_27.png)
 ```
 Colar o código do DISCORD_WEBHOOK_ID
